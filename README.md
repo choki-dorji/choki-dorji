@@ -8,10 +8,10 @@ Coding isn't just a job for me; it's a creative journey that I embarked on with 
 
 *   🌍  I'm based in Bhutan, Thimphu
 *   ✉️  You can contact me at [ceedeejee9@gmail.com](mailto:ceedeejee9@gmail.com)
-*   🧠  I'm learning Next Js 13, Next UI, Next Auth### Skills 
+*   🧠  I'm learning Next Js 13, Next UI, Next Auth
 
-                    
-### Skills
+### Skills 
+                   
 <p align="left">
 ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
 </p>
