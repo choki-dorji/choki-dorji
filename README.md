@@ -1,4 +1,4 @@
-###image![joker](https://github.com/choki-dorji/choki-dorji/assets/62417033/2599ee50-c745-4c12-8736-c9174ba0be3e)
+###image![joker](https://github.com/choki-dorji/choki-dorji/assets/62417033/2599ee50-c745-4c12-8736-c9174ba0be3e){: style="border-radius: 50%;"}
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Choki Dorji
 ==================================================================================================================================
@@ -13,11 +13,3 @@ Coding isn't just a job for me; it's a creative journey that I embarked on with 
 * 🧠  I'm learning Next Js 13, Next UI, Next Auth
 
 
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/choki-dorji"><img src="https://github-readme-streak-stats.herokuapp.com/?user=choki-dorji&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/choki-dorji" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choki-dorji&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
