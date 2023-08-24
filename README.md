@@ -11,9 +11,11 @@ Coding isn't just a job for me; it's a creative journey that I embarked on with 
 *   🧠  I'm learning Next Js 13, Next UI, Next Auth### Skills 
 
                     
-  <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON 
-           </p>
+### Skills
+<p align="left">
+ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+</p>
+ 
 ### Socials
                   
                   
