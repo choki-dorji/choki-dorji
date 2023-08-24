@@ -17,12 +17,11 @@ ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON 
 </p>
  
 ### Socials
-                  
-                  
-  <p align="left">
-                      <a href="https://www.facebook.com/Çhökï Dorjee" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+                                 
+<p align="left">
+    <a href="https://www.facebook.com/Çhökï Dorjee" target="_blank" rel="noreferrer">
+          <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="undefined" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
                     </picture>
