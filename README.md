@@ -11,10 +11,13 @@ Coding isn't just a job for me; it's a creative journey that I embarked on with 
 * 🧠  I'm learning Next Js 13, Next UI, Next Auth
 
 ### Skills
-
-
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+  <img src="url_to_html_icon.svg" width="32" height="32" alt="HTML Icon" />
+  <img src="url_to_css_icon.svg" width="32" height="32" alt="CSS Icon" />
+  <img src="url_to_js_icon.svg" width="32" height="32" alt="JavaScript Icon" />
+  <img src="url_to_ts_icon.svg" width="32" height="32" alt="TypeScript Icon" />
+  <img src="url_to_python_icon.svg" width="32" height="32" alt="Python Icon" />
+  <!-- Repeat for other skills -->
 </p>
 
 
