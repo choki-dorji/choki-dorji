@@ -1,37 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your GitHub Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f5f5f5;
-            color: #333;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        .header {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        .profile-img {
-            border-radius: 50%;
-            max-width: 200px;
-            height: auto;
-        }
-        .bio {
-            margin: 20px 0;
-        }
-    </style>
-</head>
-<body>
+
     <div class="container">
         <div class="header">
             <img class="profile-img" src="link-to-your-profile-image.jpg" alt="Profile Image">
@@ -50,5 +17,3 @@
         <h2>Contact</h2>
         <p>You can reach me at your@email.com or connect with me on [LinkedIn](link-to-your-linkedin) and [Twitter](link-to-your-twitter).</p>
     </div>
-</body>
-</html>
