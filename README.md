@@ -1,4 +1,4 @@
-![joker](https://github.com/choki-dorji/choki-dorji/assets/62417033/2599ee50-c745-4c12-8736-c9174ba0be3e){: style="border-radius: 50%;"}
+![joker](https://github.com/choki-dorji/choki-dorji/assets/62417033/2599ee50-c745-4c12-8736-c9174ba0be3e {: style="border-radius: 50%;"})
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Choki Dorji
