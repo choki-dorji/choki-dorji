@@ -1,21 +1,42 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Choki Dorji
+===================================================================================================================================
 
-    <div class="container">
-        <div class="header">
-            <img class="profile-img" src="link-to-your-profile-image.jpg" alt="Profile Image">
-            <h1>Your Name</h1>
-            <p>Software Developer | Open Source Enthusiast</p>
-        </div>
-        <div class="bio">
-            <p>Hello! I'm passionate about coding and contributing to open source projects. Currently, I'm working on [Project Name] and learning [Technology or Skill].</p>
-        </div>
-        # 💫 About Me:
-🌟 Welcome to my GitHub Space! 🚀<br>🎨 Front-End Developer at Selise 💼<br>🔮 Crafting delightful user experiences with code ✨<br>🌈 Turning designs into interactive realities 🖌️📱<br>🚀 Transforming pixels into engaging web solutions 🌐<br>⚡️ Making the web beautiful, one line of code at a time 💻💡<br>
-        <h2>Projects</h2>
-        <ul>
-            <li><a href="link-to-your-project-1">Project 1</a> - Short description of project 1.</li>
-            <li><a href="link-to-your-project-2">Project 2</a> - Short description of project 2.</li>
-            <!-- Add more projects as needed -->
-        </ul>
-        <h2>Contact</h2>
-        <p>You can reach me at your@email.com or connect with me on [LinkedIn](link-to-your-linkedin) and [Twitter](link-to-your-twitter).</p>
-    </div>
+Front-End Developer
+-------------------
+
+Coding isn't just a job for me; it's a creative journey that I embarked on with excitement. My name might be new in the tech scene, but my love for frontend development is unwavering. I specialize in HTML, CSS, JavaScript, Typescript and modern FE frameworks like Next JS, React Js, using them as my tools to shape ideas into functional and visually appealing interfaces. What drives me is more than just making things work – it's about understanding users and creating seamless designs that resonate with them. Challenges are my stepping stones to improvement. With each project I tackle, I learn, adapt, and push the boundaries of innovation. The dynamic nature of frontend keeps me on my toes, and I thrive on keeping up with the latest trends. My portfolio is a reflection of my dedication and growth. It's not just a showcase of projects; it's a timeline of my progress. From initial concepts to polished end results, each piece tells a story of my journey as a frontend virtuoso. So, welcome to my world of coding and creativity. I'm Choki Dorji, and I'm here to turn lines of code into memorable digital experiences.
+
+*   🌍  I'm based in Bhutan, Thimphu
+*   ✉️  You can contact me at [ceedeejee9@gmail.com](mailto:ceedeejee9@gmail.com)
+*   🧠  I'm learning Next Js 13, Next UI, Next Auth### Skills 
+<p align="left">
+ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON 
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://www.facebook.com/Çhökï Dorjee" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.github.com/ choki-dorji" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="http://www.instagram.com/choki.dorjee" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/ choki-dorji"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user= choki-dorji&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/ choki-dorji" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username= choki-dorji&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
