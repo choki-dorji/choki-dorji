@@ -1,4 +1,4 @@
-![Header](https://yourimageurl.com)
+![Header]([https://yourimageurl.com](https://photos.google.com/search/_cAF1QipN599MKczA2pgbTd4STx5BL0sTo-VSNQp4_Choki%20Dorji/photo/AF1QipNfMB-GEHOFsHVr57E9TxQ6gIBAiDIlpV7xGQn6)
 
 # Hello, I'm Choki Dorji(https://github.com/yourusername) 👋
 
