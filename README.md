@@ -1,3 +1,5 @@
+![Header](https://yourimageurl.com)
+
 # Hello, I'm Choki Dorji(https://github.com/yourusername) 👋
 
 I'm a passionate Developer based in [Bhutan]. I love exploring new technologies and building cool projects.
